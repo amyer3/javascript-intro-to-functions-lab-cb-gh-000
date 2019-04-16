@@ -1,17 +1,17 @@
 function shout(words){
-  return words.toUpperCase
+  return words.toUpperCase()
 }
 
 function whisper(words){
-  return words.toLowerCase
+  return words.toLowerCase()
 }
 
 function logShout(words){
-  console.log(words.toUpperCase)
+  console.log(words.toUpperCase())
 }
 
 function logWhisper(words){
-  console.log(words.toLowerCase);
+  console.log(words.toLowerCase());
 }
 
 function sayHiToGrandma(words){
